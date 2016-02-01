@@ -4,6 +4,7 @@ This file explains the steps taken to get, clean and create a tidy data set for 
 ---------------------------------------------------------------------------------------------------
 
 Step1: 	download the data from the URL given below.
+---------------------------------------------------
 Step2: 	Unzip the downloaded data.
 Step3:	Store the paths of the files to a variable "path_rf" by using file.path function.
 Step4: 	Read the activity data from the files and store them in the variables "dataActivityTest" and "dataActivityTrain".
